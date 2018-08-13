@@ -20,6 +20,6 @@ Food.create!(
     description: %{
         <p>sirloin description</p>
     },
-    image_url: "Tenderloin.jpg",
+    image_url: "Sirloin.jpg",
     price: 50000.00
 )
